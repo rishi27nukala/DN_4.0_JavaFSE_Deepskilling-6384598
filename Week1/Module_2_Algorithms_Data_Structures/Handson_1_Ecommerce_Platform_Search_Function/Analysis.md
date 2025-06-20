@@ -9,7 +9,7 @@
 | Method          | Time Complexity | Use Case                       |
 |----------------|------------------|--------------------------------|
 | Linear Search   | O(n)             | Small or unsorted datasets     |
-| Binary Search   | O(log n)         | Large and sorted datasets      |
+| Binary Search   | O(log n)         | Large and sorted datasets     |
 
 
 - **Binary Search** is faster for large datasets but requires pre-sorting.
