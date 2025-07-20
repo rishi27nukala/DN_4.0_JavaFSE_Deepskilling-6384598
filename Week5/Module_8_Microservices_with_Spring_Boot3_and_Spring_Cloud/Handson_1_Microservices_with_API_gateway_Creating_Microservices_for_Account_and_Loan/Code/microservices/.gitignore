@@ -1,0 +1,24 @@
+# Java
+*.class
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# IDE
+*.iml
+.idea/
+.vscode/
+.settings/
+*.classpath
+*.project
+*.prefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring
+spring.log
