@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  border-left: 4px solid green;
+  padding-left: 20px;
+  min-width: 250px;
+}
+
+.section h2 {
+  font-weight: bold;
+}
+
+.section p, .section li {
+  margin: 6px 0;
+}
